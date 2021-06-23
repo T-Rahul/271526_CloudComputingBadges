@@ -11,3 +11,6 @@
 
 ## 22nd June, 2021
 ![](https://github.com/T-Rahul/271526_CloudComputingBadges/blob/f42e607e442c383a700e94b8b3301b84cfed26df/271526_22nd%20June.png)
+
+## 23rd June, 2021
+![](https://github.com/T-Rahul/271526_CloudComputingBadges/blob/42411fba9b4bc9019368ed0a8d037beb4a6b51d0/271526_23rd%20June.png)
